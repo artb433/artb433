@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @artb433
-- 👀 I’m interested in mobile app development
+- 👀 I’m interested in mobile app development, backend, frontend, flutter, dart and kotlin.
 - 🌱 I’m currently learning dart and flutter
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on mobile app development projects.
 - 📫 How to reach me ...
 
 <!---
