@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile app development, backend, frontend, flutter, dart and kotlin.
 - 🌱 I’m currently learning dart and flutter
 - 💞️ I’m looking to collaborate on mobile app development projects.
-- 📫 How to reach me :WhatsApp 0553159761.
+- 📫 How to reach me :WhatsApp +233(0)553159761.
 - Twitter/instagram @art.b433
 - linkedin : TAHIRU ABDUL RAHMAN
 
