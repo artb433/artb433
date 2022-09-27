@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tahiru Abdul Rahman
+- 👋 Hi, I’m Tahiru Abdul Rahman.
 - 👀 I’m interested in Software Engineering(flutter, Node.js) and Data Analysis(Spreadsheets, SQL, Tableau, R).
 - 🌱 I’m currently learning IT support.
 - 💞️ I’m looking to collaborate on Software Engineering and Data Analysis projects.
