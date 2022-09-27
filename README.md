@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @artb433
-- 👀 I’m interested in mobile app development, backend, frontend, flutter, dart, python, javaScript, C++, data Analysis, IT support specialist and Cyber security.
-- 🌱 I’m currently learning dart, flutter,  data Analysis, IT support specialist.
-- 💞️ I’m looking to collaborate on mobile app development projects.
+- 👋 Hi, I’m Tahiru Abdul Rahman
+- 👀 I’m interested in Software Engineering(flutter, Node.js) and Data Analysis(Spreadsheets, SQL, Tableau, R).
+- 🌱 I’m currently learning IT support.
+- 💞️ I’m looking to collaborate on Software Engineering and Data Analysis projects.
 - 📫 How to reach me :WhatsApp https://wa.me/message/QGJPKUZVVVENA1
 - Twitter/instagram @artb433
-- linkedin : https://www.linkedin.com/in/tahiru-abdul-rahman-baaba-485a00216
+- linkedin : https://www.linkedin.com/in/tahiru-abdul-rahman-485a00216
 
 <!---
 artb433/artb433 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
