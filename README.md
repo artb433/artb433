@@ -4,7 +4,7 @@
 
 
 ### Professional Summary  
-### <div align="center">I'm Tahiru, a full-stack mobile(flutter & Nodejs), web(vue.js) developer 👨‍💻 Google Certified Data Analyst(Tableau, spreadsheet, SQL, R). Open to new opportunities🚀</div>  
+### <div align="center">I'm Tahiru, a full-stack mobile(flutter & Nodejs), web(vue.js) developer 👨‍💻 and a Google Certified Data Analyst(Tableau, spreadsheet, SQL, R). Open to new opportunities🚀</div>  
   
 
 - 🔭 I’m currently working on [Flutter mobile and web apps](https://github.com/artb433/HealthChecker.git)  
@@ -85,7 +85,7 @@
 <a href="https://github.com/artb433" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdul-rahman-tahiru-485a00216/" target="_blank">
+<a href="https://linkedin.com/in/https://linkedin.com/in/abdul-rahman-tahiru-485a00216/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/artb433" target="_blank">
