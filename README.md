@@ -114,7 +114,7 @@
 
 <br/>  
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="abdul-rahman-tahiru-485a00216" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://gh.linkedin.com/in/abdul-rahman-tahiru-485a00216?trk=profile-badge">Abdul Rahman Tahiru</a></div>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
               
 
 ## Recent Blog Posts  
