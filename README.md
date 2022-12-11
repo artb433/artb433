@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/94374097?s=400&u=6db30522b7d1a6eeb3187231bbd5a49b84367788&v=4" align="center" height="400" width="400" />
  </div>  
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="abdul-rahman-tahiru-485a00216" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://gh.linkedin.com/in/abdul-rahman-tahiru-485a00216?trk=profile-badge">Abdul Rahman Tahiru</a></div>
               
 
 ### Professional Summary  
@@ -115,6 +114,8 @@
 
 <br/>  
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="abdul-rahman-tahiru-485a00216" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://gh.linkedin.com/in/abdul-rahman-tahiru-485a00216?trk=profile-badge">Abdul Rahman Tahiru</a></div>
+              
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
