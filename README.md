@@ -7,7 +7,7 @@
               
 
 ### Professional Summary  
-### <div align="center">I'm Tahiru, a full-stack mobile(flutter & Nodejs), web(vue.js) developer 👨‍💻 and a [Google Certified Data Analyst(Tableau, spreadsheet, SQL, R)](https://coursera.org/share/7ea624660898c9a3add3947e1c783aba). Open to new opportunities🚀</div>  
+### <div align="center">I'm Tahiru, a full-stack mobile(flutter & Nodejs), [Web dev](https://www.coursera.org/account/accomplishments/verify/LFC7Z9679BA2?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) 👨‍💻 and a [Google Certified Data Analyst(Tableau, spreadsheet, SQL, R)](https://coursera.org/share/7ea624660898c9a3add3947e1c783aba). Open to new opportunities🚀</div>  
   
 
 - 🔭 I’m currently working on [Flutter mobile and web apps](https://github.com/artb433/HealthChecker.git)  
