@@ -7,7 +7,7 @@
               
 
 ### Professional Summary  
-### <div align="center">I'm Tahiru, a full-stack mobile(flutter & Nodejs), web(vue.js) developer 👨‍💻 and a Google Certified Data Analyst(Tableau, spreadsheet, SQL, R). Open to new opportunities🚀</div>  
+### <div align="center">I'm Tahiru, a full-stack mobile(flutter & Nodejs), web(vue.js) developer 👨‍💻 and a [Google Certified Data Analyst(Tableau, spreadsheet, SQL, R)](https://github.com/artb433/HealthChecker.git). Open to new opportunities🚀</div>  
   
 
 - 🔭 I’m currently working on [Flutter mobile and web apps](https://github.com/artb433/HealthChecker.git)  
